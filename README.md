@@ -170,7 +170,7 @@ Registered face photos and the trained model stay on your machine. They are git-
 
 ## 📄 License
 
-MIT License. Built for educational and portfolio purposes.
+This project is source-available under the [Yash AIL Source-Available License](LICENSE): you may view, copy and modify it for personal, educational and non-commercial local use. **Deploying/hosting it online and selling it are not allowed.** Built for educational and portfolio purposes.
 
 <div align="center">
 
