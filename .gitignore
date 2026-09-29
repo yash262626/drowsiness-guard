@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+dataset/raw/
+dataset/merged/
+models/*.keras
+models/*.dat
+registered_faces/*
+!registered_faces/.gitkeep
+.DS_Store
